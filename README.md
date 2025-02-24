@@ -10,7 +10,7 @@ This Flutter project demonstrates responsive UI design and state management usin
 1. **Clone the Repository**
 
    ```bash
-   git clone [<repository-url>](https://github.com/Aayush0820/The-Mahakali-Group-Assignment.git)
+   git clone https://github.com/Aayush0820/The-Mahakali-Group-Assignment.git
    cd <repository-directory>
    ```
 
